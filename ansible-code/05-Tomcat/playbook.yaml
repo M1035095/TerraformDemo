@@ -5,7 +5,7 @@
   become: yes
   vars: 
     doc_root: "/var/www/html"
-    username: "Amit Vashist"
+    username: "M1035095"
     doc_tomcat: "/opt/SP/apps"
     doc_tomcat_webapp: "/opt/SP/apps/tomcat/webapps/webapp"
  

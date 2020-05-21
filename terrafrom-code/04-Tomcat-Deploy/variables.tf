@@ -6,10 +6,10 @@ variable "pvt_key" {
   default = "/root/.ssh/amit-personal-aws.pem"
 }
 
-variable "us-east-zones" {
-  default = ["us-east-1a", "us-east-1b"]
+variable "ap-south-1" {
+  default = ["ap-south-1a", "ap-south-1b", "ap-south-1c"]
 }
 
 variable "sg-id" {
-  default = "sg-0eec038018ea2902d"
+  default = "sg-0c279b0ea5c8a9b0f"
 }

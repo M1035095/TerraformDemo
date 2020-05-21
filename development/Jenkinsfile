@@ -5,7 +5,7 @@ node {
 
  
   stage('GIT CheckOut') {
-    git branch: 'development ', url: 'https://github.com/amitvashisttech/mindtree-devops-27April2020.git'
+    git branch: 'development ', url: 'https://github.com/M1035095/TerraformDemo.git'
   }
 
   def project_path = "petclinic-code"

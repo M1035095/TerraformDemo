@@ -10,4 +10,4 @@ db
 
 [dc:vars]
 ansible_ssh_user="root"
-ansible_ssh_pass="Venkat53*"
+ansible_ssh_pass="sudopwd"

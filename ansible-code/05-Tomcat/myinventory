@@ -1,11 +1,17 @@
 [web]
 10.0.0.4
+web1
+
+[petclinic]
+10.0.0.4
+web2
 
 [db]
 10.0.0.4
 
 [dc:children]
 web
+petclinic
 db
 
 [dc:vars]

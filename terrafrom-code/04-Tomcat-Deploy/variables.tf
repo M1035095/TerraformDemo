@@ -1,9 +1,9 @@
 variable "key_name" {
-  default = "mykey-test-1"
+  default = "TerraformDemo"
 }
 
 variable "pvt_key" {
-  default = "/root/.ssh/amit-personal-aws.pem"
+  default = "/root/.ssh/TerraformDemo.pem"
 }
 
 variable "ap-south-1" {
